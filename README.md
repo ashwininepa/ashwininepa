@@ -68,6 +68,8 @@ I am a Data Scientist and passionate about Machine Learning, Containerization of
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashwininepa&theme=flat)
 
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ashwininepa)
+
 
 
 
