@@ -1,5 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+to+Deployment)](https://git.io/typing-svg)
+
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DS+ML+to+Prod+%E2%80%94+Fast%2C+Scalable%2C+Containerized)](https://git.io/typing-svg)
 
 <!--
 **ashwininepa/ashwininepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
