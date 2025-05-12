@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ashwininepa&color=blue)
+![](https://komarev.com/ghpvc/?username=ashwininepa&color=green)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+to+Deployment)](https://git.io/typing-svg)
 
