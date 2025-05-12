@@ -24,6 +24,7 @@ I am a Data Scientist and passionate about Machine Learning, Containerization of
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -38,7 +39,11 @@ I am a Data Scientist and passionate about Machine Learning, Containerization of
 ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
 ![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-34495E?style=flat&logo=scikitlearn&logoColor=white)
+
 
 ## My GitHub 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwininepa&show_icons=true&theme=default&count_private=true)
