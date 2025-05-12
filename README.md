@@ -59,7 +59,7 @@ I am a Data Scientist and passionate about Machine Learning, Containerization of
 ![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-## My GitHub
+## My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwininepa&show_icons=true&theme=default&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwininepa&layout=compact)
