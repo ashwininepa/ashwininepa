@@ -9,7 +9,7 @@ I am a Data Scientist and passionate about Machine Learning, Containerization of
 #DataScience # MachineLeanring #GitHub #GCP #GenAI #MLOps
 
 ## About me 👩‍💻
-- 🔭 I’m currently working on LLMs, Data Pipelines, BI Porduct, MLOps, Data Analytics
+- 🔭 I’m currently working on LLMs, Kalman Filter based survey noise filtering model, Data Pipelines, BI Porduct, MLOps, Data Analytics
 - 🌱 I’m currently pursuing courses from Google Cloud Skills Boost on Machine Learning Engineer Path
 - 👯 I’m looking to collaborate on Machine Learning, GenerativeAI, MLOps, Data Analytics
 - 📫 How to reach me: You can reach me on my LinkedIn
