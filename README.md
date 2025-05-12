@@ -21,7 +21,7 @@ I am a Data Scientist and passionate about Machine Learning, Containerization of
 - Traveling: I like to travel and visit new places, learn history about the place, people, food, clothing.
 - Hiking: I like to go on hikes and have explored multiple hiking paths around Stockholm.
 
-## Skill set:
+## Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
