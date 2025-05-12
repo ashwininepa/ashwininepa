@@ -5,6 +5,7 @@
 ## Hi there 👋, I'm Ashwini 😃
 
 I am a Data Scientist and passionate about Machine Learning, Containerization of applications, GCP, achieving CI/CD using TeamCity at work and taught myself GitHub Actions off-work which is very fascinating. I have recently explored working with LLMs - vertexai and openai libraries from Python. I like unit testing, TDD. I use Git for version control and mindful about the commits. I go to different meetups related to Machine Learning, AI, MLOps and also do different courses to keep myself in touch with the new technologies, to learn how others work, how they think about work, different techniques that they use at their work.
+
 #DataScience # MachineLeanring #GitHub #GCP #GenAI #MLOps
 
 ## About me 👩‍💻
