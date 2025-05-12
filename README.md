@@ -2,12 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+to+Deployment)](https://git.io/typing-svg)
 
-## Hi there 👋
+## Hi there 👋, I'm Ashwini 😃
 
-<!--
-**ashwininepa/ashwininepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a Data Scientist and passionate about Machine Learning, Containerization of applications, GCP, achieving CI/CD using TeamCity at work and taught myself GitHub Actions off-work which is very fascinating. I have recently explored working with LLMs - vertexai and openai libraries from Python. I like unit testing, TDD. I use Git for version control and mindful about the commits. 
 
 - 🔭 I’m currently working on LLMs, Data Pipelines, BI Porduct, MLOps, Data Analytics
 - 🌱 I’m currently pursuing courses from Google Cloud Skills Boost on Machine Learning Engineer Path
