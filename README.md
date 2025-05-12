@@ -64,7 +64,7 @@ I am a Data Scientist and passionate about Machine Learning, Containerization of
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwininepa&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ashwininepa)
+![GitHub Streak] (https://streak-stats.demolab.com/?user=ashwininepa)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashwininepa&theme=flat)
 
